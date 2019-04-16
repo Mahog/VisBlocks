@@ -1,4 +1,7 @@
-# Toolkit Protoype
+# VisBlocks
+
+A graphical toolkit for the building-block-based construction of information visualizations (see the [demo video](https://www.youtube.com/watch?v=g2UOWdWea_A)).
+
 ## Prerequisites
 * ```nodeJS ``` (v.XX or newer) and ```npm ```(v.XX or newer) installed
 * Modern Webbrowser (Firefox XX or Chrome XX)
